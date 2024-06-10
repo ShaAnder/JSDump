@@ -1,4 +1,4 @@
-## Welcome to the React D U M P
+## Welcome to the JS D U M P
 
 Main Javascript linker repo. Allows the user to navigate to the various projects I have created. Check below for quick navigation.
 
@@ -17,7 +17,7 @@ This is the ideas section, these are all projects or ideas I have started, but n
       <img loading="lazy" src="" height="300px">
   </details>
 
-[To start](#welcome-to-the-react-d-u-m-p)
+[To start](#welcome-to-the-js-d-u-m-p)
 
 ## Course Projects
 
@@ -59,14 +59,14 @@ Recipe tracker, saving and cooking application
     <img loading="lazy" src="https://github.com/ShaAnder/JSDump/assets/129494996/00ae8ad2-3ff7-42c7-906d-c1d5ce8729ea" height="300px">
 </details>
 
-[To start](#welcome-to-the-react-d-u-m-p)
+[To start](#welcome-to-the-js-d-u-m-p)
 
 ## Applications
 
 Much like the finished course projects section, these are finished and working applications that I wanted to find a place for that 
 are not nessecarily on my portfolio, older portfolio works are stored here too!
 
-[To start](#welcome-to-the-react-d-u-m-p)
+[To start](#welcome-to-the-js-d-u-m-p)
 
 ## Snippets
 
@@ -74,4 +74,4 @@ Finally we have the snippets section, this is where i keep all my single file co
 things that I can just reuse in other projects or a toolbox rather, and while some of these are stuff i use frequently, this is not 
 all of them. I need some secrets after all 😉
 
-[To start](#welcome-to-the-react-d-u-m-p)
+[To start](#welcome-to-the-js-d-u-m-p)
