@@ -33,31 +33,31 @@ This is the finished project section. Each of these are a project I finished for
   </details>
 
 - [Bankist](https://github.com/ShaAnder/bankist)
-<br><br>
-Mock minimalist banking application
-<br>
-<details>
-  <summary>Preview</summary>
-    <img loading="lazy" src="https://github.com/ShaAnder/JSDump/assets/129494996/e0e2bb8e-0483-4a4a-84d3-e5d33f45e26b" height="300px">
-</details>
+  <br><br>
+  Mock minimalist banking application
+  <br>
+  <details>
+    <summary>Preview</summary>
+      <img loading="lazy" src="https://github.com/ShaAnder/JSDump/assets/129494996/e0e2bb8e-0483-4a4a-84d3-e5d33f45e26b" height="300px">
+  </details>
 
 - [Mapty](https://github.com/ShaAnder/mapty)
-<br><br>
-Workout tracking and saving application
-<br>
-<details>
-  <summary>Preview</summary>
-    <img loading="lazy" src="https://github.com/ShaAnder/JSDump/assets/129494996/f29b8e7f-cbd8-4b66-a69b-f746053ffe2f" height="300px">
-</details>
+  <br><br>
+  Workout tracking and saving application
+  <br>
+  <details>
+    <summary>Preview</summary>
+      <img loading="lazy" src="https://github.com/ShaAnder/JSDump/assets/129494996/f29b8e7f-cbd8-4b66-a69b-f746053ffe2f" height="300px">
+  </details>
 
 - [Forkify](https://github.com/ShaAnder/forkify)
-<br><br>
-Recipe tracker, saving and cooking application
-<br>
-<details>
-  <summary>Preview</summary>
-    <img loading="lazy" src="https://github.com/ShaAnder/JSDump/assets/129494996/00ae8ad2-3ff7-42c7-906d-c1d5ce8729ea" height="300px">
-</details>
+  <br><br>
+  Recipe tracker, saving and cooking application
+  <br>
+  <details>
+    <summary>Preview</summary>
+      <img loading="lazy" src="https://github.com/ShaAnder/JSDump/assets/129494996/00ae8ad2-3ff7-42c7-906d-c1d5ce8729ea" height="300px">
+  </details>
 
 [To start](#welcome-to-the-js-d-u-m-p)
 
